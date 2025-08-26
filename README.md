@@ -1,5 +1,9 @@
 # AdadFisaghoresi.sln
 
+- **Link:** [Quera Problem #280](https://quera.org/problemset/280)
+- **Description:** Write programs that accept three positive integers as input from the user and print YES if it is possible to construct a right triangle with the given side lengths and NO otherwise.
+- **Solution:** Implemented in C#.
+
 namespace adadFisaghoresi
 {
     internal class Program
